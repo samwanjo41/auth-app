@@ -1,13 +1,5 @@
 <div id="top"></div>
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -39,9 +31,6 @@ The following are needed to run the project
 
 
 * Java - atleast java 8
-  ```sh
-  npm install npm@latest -g
-
 * Postgres Databaase 
 * Redis Server
 * Twilio API Key
