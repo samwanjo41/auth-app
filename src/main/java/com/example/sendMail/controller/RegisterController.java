@@ -28,7 +28,7 @@ public class RegisterController {
     }
 
     private static final String USERNAME = "sandbox";
-    private static final String API_KEY = "7e7afd3086fa2fcfe01787f5a831ba90b6e9e487d1609622fad20f79e087f84b";
+    private static final String API_KEY = "Your aficasTalking api key";
 
     @GetMapping("/home")
     public String home() {
