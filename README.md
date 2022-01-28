@@ -3,7 +3,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
 This is a spring boot application that focuses on user authentication and authorization. JWT has been used as well as using auxiliary apis for sending confirmation emails and sms.
 
